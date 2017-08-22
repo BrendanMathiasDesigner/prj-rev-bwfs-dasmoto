@@ -1,0 +1,33 @@
+h1 {
+    background-image: url("/DasmotosArtsCrafts/pattern.jpeg");
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: Khaki;
+}
+
+ h2 {
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    
+}
+
+.starting {
+font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+    font-weight: bold;
+    
+}
+
+.paint {
+    background-color: skyblue;
+}
